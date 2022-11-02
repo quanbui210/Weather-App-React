@@ -35,6 +35,9 @@ If the user types an invalid city name, an error message appears.
 
 
 ![image](https://user-images.githubusercontent.com/89993167/199537851-188c0a57-71dc-4e5e-9fc0-f65cfc7c6026.png)
+
+![image](https://user-images.githubusercontent.com/89993167/199561777-0084f799-3657-4f50-84b6-cbd66f707f6d.png)
+
 This is a responsive web application, users can access it on different devices and browsers
 
 
