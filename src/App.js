@@ -87,6 +87,7 @@ function App() {
   return (
     <Wrapper>
       {error && <ModalShow onShow={show} error = {error} onHide={handleClose}/>}
+      
       <div className="input-container">
         <Input value={enteredCity} onClick={handleClick} onChange={handleInputChange} />
       </div>

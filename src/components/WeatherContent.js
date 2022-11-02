@@ -19,10 +19,11 @@ const WeatherContent = ({ cityCode, cityName, badge}) => {
     }, [cityCode])
 
     return (
+    <React.Fragment>
     <div className="weather-content-container"> 
         {cityData ? <CardItem badge={badge} data={cityData} cityName={cityName}/> : <div style={{color: '#fff'}}>Please enter a valid city name</div> }
     </div>
-       
+    </React.Fragment>     
     )
 };
 
