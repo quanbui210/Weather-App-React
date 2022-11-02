@@ -1,0 +1,24 @@
+.searchButton {
+    width: 60px;
+    height: 40px;
+    text-align: center;
+    color: rgb(15, 15, 15);
+    cursor: pointer;
+    font-size: 20px;
+    font-size: 13px;
+    border: none;
+    background-color: #fff;
+  }
+
+  .searchButton:hover {
+   
+    color: rgb(2, 2, 2);
+    border: rgb(0, 0, 0);
+  }
+
+  .search-icon:hover {
+    cursor: pointer;
+    transform: scale(1.5);
+    transition: all .2s ease-in-out 0s;
+    -webkit-transform: all .2s ease-in-out 0s;
+  }
