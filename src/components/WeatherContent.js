@@ -4,8 +4,6 @@ import CardItem from './Card/CardItem';
 import './WeatherContent.css'
 
 
-
-
 const WeatherContent = ({ cityCode, cityName, badge}) => {
     const [cityData, setCityData] = useState(null)
     useEffect(() => {
