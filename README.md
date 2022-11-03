@@ -1,4 +1,6 @@
 
+
+
 ![23123](https://user-images.githubusercontent.com/89993167/199535608-c0e66cfe-d822-4eee-b810-2974fe58871c.png)
 
 Get user's current location based on GeoPosition
@@ -39,6 +41,11 @@ If the user types an invalid city name, an error message appears.
 ![image](https://user-images.githubusercontent.com/89993167/199561777-0084f799-3657-4f50-84b6-cbd66f707f6d.png)
 
 This is a responsive web application, users can access it on different devices and browsers
+
+
+
+
+**NOTE: The api key only allows 50 calls/day, so if the amount of calls ecxeeded, you need to wait until the next day.
 
 
 
